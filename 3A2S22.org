@@ -1,0 +1,110 @@
+#+title: 3 Year 2 Semester 2022
+#+author: André Silva
+
+* Computability and Complexity
+:PROPERTIES:
+:sigarra:   https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=488639
+:site:
+:moodle:    https://moodle.up.pt/course/view.php?id=3670
+:END:
+** CC homework
+** Schedule
+*** TODO CC Theory-class
+SCHEDULED: <2022-05-10 Tue 10:00 +1w>
+SCHEDULED: <2022-05-13 Fri 10:00 +1w>
+*** TODO CC Pratical-class
+SCHEDULED: <2022-05-10 Tue 11:00 +1w>
+** Notes
+
+
+* Decision Support Methods
+:PROPERTIES:
+:sigarra:   https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=488638
+:site:      http://www.dcc.fc.up.pt/~jpp/mad
+:moodle:
+:END:
+** MAD homework
+
+** Schedule
+*** TODO MAD Theory-class
+SCHEDULED: <2022-05-10 Tue 9:00 +1w>
+SCHEDULED: <2022-05-13 Fri 9:00 +1w>
+*** TODO MAD Pratical-class
+        SCHEDULED: <2022-05-13 Fri 11:00 +1w>
+** Notes
+
+
+* Concurrent Programming
+:PROPERTIES:
+:sigarra:   https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=488641
+:site:
+:moodle:    https://moodle.up.pt/course/view.php?id=4943
+:END:
+** CP homework
+** Schedule
+*** TODO CP Theory-class
+SCHEDULED: <2022-05-09 Mon 10:00 +1w>
+SCHEDULED: <2022-05-11 Wed 9:00 +1w>
+*** TODO CP Practical-class
+SCHEDULED: <2022-05-09 Mon 11:00 +1w>
+** Notes
+*** 2022-05-11
+    
+
+
+* Internship/Project
+:PROPERTIES:
+:sigarra:   https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=488640
+:site:      https://www.dcc.fc.up.pt/projeto-s2/projetos
+:login:     projetos
+:password:  proJeto5
+:moodle:
+:END:
+** Project homework
+** Schedule
+*** TODO Meeting
+SCHEDULED: <2022-05-18 Wed 14:40>
+** Notes
+*** Profiling User / Personalized hints [3/4]
+- [X] Papers [5/5]
+  1. [X] Your Location has been share 5,398 Times! A Field Study on Mobile App Privacy Nudging
+  2. [X] Using personal examples to improve risk communication for security & privacy decisions
+  3. [X] Nudges for Privacy and Security: Understanding and Assisting Users’ Choices Online
+  4. [X] Follow My Recommendations: A Personalized Privacy Assistant for Mobile App Permissions (Important)
+  5. [X] A Design Space for Effective Privacy Notices
+- [X] State of Art
+  - We can conclude that, showing the user what permissions are being access by nudges helps the user to understand when his information is being share.
+    However, only a part of those users access and a smaller part remove permissions form the apps that sent this information.
+  - Some of the ways to deal with personalized hints are:
+    1. Showing the user nudges based on the permissions access at the moment by some app.
+    2. Apple asking if you want to allow the app to continue accessing your location in the background
+    3. Android does the same as apple but only when you open a app in a while.
+    4. There are some studies that take leverage of permissions to show hints based on other apps using the permission.
+- [X] Conclusions
+  - In order for us to improve the experience in using hints we need:
+    1. Be persistence, but not annoying.
+    2. Save information that on other hints to generated the next. (If the user already said no to X we probably should not ask again right way)
+    3. Some "Yes", "No", "Remind me later". (Remind me later can be personalize. Ex: Set reminders for 8PM).
+    4. Configure about what we want to receive nudges and hints, by theme/permission.
+    5. Use permissions in order to get data to show the user hints, more specific show what information could be derive from the raw data.
+    6. Using personal data to make hints/nudges has more impact on the user (shown by paper 2)
+    7. Alert user for other privacy risk based on app usage (for example gmail app usage is high, why not show the user hints for sent emails with proper encryption and proper privacy protection.)
+    8. Have balance between Privacy and Functionality, for example the app ANDA, I cannot remove the location or Bluetooth permission from it or else it does not work.
+    9. Using a small number of questions we can predict some of the privacy settings. (Paper 4) Have some type of questionnaire in settings.
+    10. Exclude certain Apps from hints according to the user.
+- [-] What should we do next?
+  1. Does this permission make sense to this app?
+  2. Google apps categorize and gets permissions need.
+  3.
+
+* 2 Semester 2022 Schedule
+** Exames
+*** CC
+SCHEDULED: <2022-06-27>
+SCHEDULED: <2022-07-13>:
+*** MAD
+SCHEDULED: <2022-06-14>
+SCHEDULED: <2022-07-05>
+*** CP
+SCHEDULED: <2022-06-23>
+SCHEDULED: <2022-07-11>
